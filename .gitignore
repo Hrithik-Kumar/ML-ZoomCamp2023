@@ -1,0 +1,8 @@
+.vscode
+# Python specific
+__pycache__/
+*.pyc
+
+# Exclude virtual environments
+venv/
+env/
